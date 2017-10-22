@@ -1,0 +1,215 @@
+ BOOKS
+ ---------------------------------------------------------------------------------------------------------
+ 24  Only a Trillion                           				Abelard-Schuman             1957 
+ 45  Fact and Fancy                            				Doubleday                   1962 
+ 53  View from a Height                        				Doubleday                   1963 (hb) 
+ 58  Adding a Dimension                        				Doubleday                   1964 (pb)*
+ 64  Of Time and Space and Other Things        				Doubleday                   1965 
+ 78  From Earth to Heaven                      				Doubleday                   1966 
+ 83  Is Anyone There?                          				Doubleday                   1967 (pb)
+ 88  Science, Numbers, and I                   				Doubleday                   1968 (pb)*
+103  The Solar System and Back                 				Doubleday                   1970 (pb)
+109  The Stars in Their Courses                				Doubleday                   1971 
+119  The Left Hand of the Electron             				Doubleday                   1972 
+138  Today and Tomorrow and...                 				Doubleday                   1973 (pb)
+144  The Tragedy of the Moon                   				Abelard-Schuman             1973 
+148  Asimov on Astronomy                       				Doubleday                   1974 (hb & pb)
+157  Asimov on Chemistry                       				Doubleday                   1974 
+159  Of Matters Great and Small                				Doubleday                   1975 
+163  Science Past, Science Future              				Doubleday                   1975 
+171  Asimov on Physics                         				Doubleday                   1976 
+175  The Planet That Wasn't                    				Doubleday                   1976 (pb)
+183  Asimov on Numbers                         				Doubleday                   1977 (hb)
+187  The Beginning and the End                 				Doubleday                   1977 
+193  Quasar, Quasar, Burning Bright            				Doubleday                   1978 (hb)*
+198  Life and Time                             				Doubleday                   1978 (pb)
+206  The Road to Infinity                      				Doubleday                   1979 (pb)
+237  The Sun Shines Bright                     				Doubleday                   1981 (hb)*
+238  Change!: Seventy-one Glimpses of the Future            Houghton Mifflin            1981 
+266  Counting the Eons                         				Doubleday                   1983 (pb)*
+272  The Roving Mind                           				Prometheus Books            1983 
+290  X Stands for Unknown                      				Doubleday                   1984 
+326  The Subatomic Monster                     				Doubleday                   1985 
+341  The Dangers of Intelligence and Other Science Essays   Houghton Mifflin            1986 
+354  Far as Human Eye Could See                				Doubleday                   1987 (pb & hb)*
+357  Past, Present, and Future                 				Prometheus Books            1987 
+378  The Relativity of Wrong                   				Doubleday                   1988 (pb) 
+426  The Tyrannosaurus Prescription                         Prometheus Books            1989 (hb)
+427  Asimov On Science: A 30 Year Retrospective 1959-1989   Doubleday                   1989 
+447  Frontiers                                              E. P. Dutton/Truman         1990 (pb)
+449  Out of the Everywhere                     				Doubleday                   1990 
+462  The Secret of the Universe                				Doubleday                   1991 (pb)* 
+     Frontiers II                                                                            (pb)
+	 
+ESSAYS READ
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aug-59	The Ultimate Split of the Second					1963	View From A Height				ultrashort time periods/subatomic particle lifetimes
+Oct-59	The Height of Up									1963	View From A Height				temperature extremes/temperature measurement
+Nov-60	The Element of Perfection							1963	View From A Height				helium
+Dec-60	Now Hear This!										1963	View From A Height				echo location
+Jul-61	Recipe for a Planet									1963	View From A Height				elementary makeup of Earth
+Aug-61	The Evens Have It									1963	View From A Height				nuclear structure
+Jan-62	The Modern Demonology								1963	View From A Height				Maxwell's demon
+Feb-62	Superficially Speaking								1963	View From A Height				planetary areas
+Apr-62	The Weighting Game									1963	View From A Height				atomic weights
+Jul-62	Hot Stuff											1963	View From A Height				neutrinos and supernovas
+
+Sep-59	Varieties of the Infinite							1964	Adding A Dimension				transfinite numbers
+May-60	A Piece of Pi										1964	Adding A Dimension				pi
+Sep-60	Tools of the Trade									1964	Adding A Dimension				pi, squaring a circle
+Mar-61	The Imaginary That Isn't							1964	Adding A Dimension				imaginary numbers
+Aug-62	The Light Fantastic									1964	Adding A Dimension				lasers
+Sep-62	The Shape of Things									1964	Adding A Dimension				shape of the Earth
+Oct-62	Slow Burn											1964	Adding A Dimension				oxygen and oxidation
+Nov-62	Pre-fixing It Up									1964	Adding A Dimension				metric system
+Dec-62	One, Ten, Buckle My Shoe							1964	Adding A Dimension				binary numbers
+Jan-63	He's Not My Type									1964	Adding A Dimension				blood types
+Feb-63	The Lost Generation									1964	Adding A Dimension				Mendelian laws
+Mar-63	You, Too Can Speak Gaelic							1964	Adding A Dimension				chemical nomenclature
+Apr-63	The Rigid Vacuum									1964	Adding A Dimension				luminiferous ether
+Jun-63	The Light that Failed								1964	Adding A Dimension				Michelson-Morley experiment
+Jul-63	The Isaac Winners									1964	Adding A Dimension				great scientists in history
+Aug-63	T-Formation											1964	Adding A Dimension				large numbers
+Oct-63	Twinkle, Twinkle, Little Star						1964	Adding A Dimension				white dwarfs
+
+Jul-66	Balancing the Books									1968	Science, Numbers, and I			conservation laws	
+Aug-66	BB or Not BB, That is the Question					1968	Science, Numbers, and I			origin of the universe
+Sep-66	I'm Looking Over a Four-Leaf Clover					1968	Science, Numbers, and I			origin of the universe
+Oct-66	Portrait of the Writer as a Boy						1968	Science, Numbers, and I			personal remininscences
+Nov-66	Old Man River										1968	Science, Numbers, and I			rivers\
+Dec-66	The Symbol-Minded Chemist							1968	Science, Numbers, and I			atomic symbols
+Jan-67	Right Beneath Your Feet								1968	Science, Numbers, and I			antipodes
+Feb-67	Impossible, That's All!								1968	Science, Numbers, and I			speed of light
+Mar-67	Crowded!											1968	Science, Numbers, and I			city populations
+Apr-67	A Matter of Scale									1968	Science, Numbers, and I			picturing the scale of the universe
+May-67	The Times of Our Lives								1968	Science, Numbers, and I			time zones
+Jun-67	Non-Time Travel										1968	Science, Numbers, and I			international date line
+Jul-67	Twelve Point Three Six Nine							1968	Science, Numbers, and I			popular fallacies
+Aug-67	Kaleidoscope in the Sky								1968	Science, Numbers, and I			satellites of Mars
+Sep-67	The Great Borning									1968	Science, Numbers, and I			Cambrian fossils
+Oct-67	Music to My Ears									1968	Science, Numbers, and I			musical scale
+Nov-67	Knock Plastic!										1968	Science, Numbers, and I			popular fallacies
+
+Dec-67	The First Metal										1969	The Solar System and Back		metals known to the ancients
+Jan-68	The Seventh Metal									1969	The Solar System and Back		element mercury
+Feb-68	The Predicted Metal									1969	The Solar System and Back		periodic table
+Mar-68	The Seventh Planet									1969	The Solar System and Back		Venus and Mercury
+Apr-68	The Dance of the Sun								1969	The Solar System and Back		Sun's motion across the sky
+May-68	Backward, Turn Backward								1969	The Solar System and Back		planetary rotations
+Jun-68	Counting Chromosomes								1969	The Solar System and Back		x- and y- chromosomes
+Jul-68	Little Lost Satellite								1969	The Solar System and Back		large asteroids
+Aug-68	The Terrible Lizards								1969	The Solar System and Back		dinosaurs
+Sep-68	The Dying Lizards									1969	The Solar System and Back		dinosaur extinctions
+Nov-68	The Planetary Eccentric								1969	The Solar System and Back		Pluto
+Dec-68	View from Amalthea									1969	The Solar System and Back		Jupiter's satellites
+Mar-69	Just Right											1969	The Solar System and Back		square-cube law of size
+Apr-69	The Incredible Shrinking People						1969	The Solar System and Back		miniaturization
+
+Dec-74	Star In The East									1976	The Planet That Wasn't			star of Bethlehem
+Jan-75	Thinking About Thinking								1976	The Planet That Wasn't			IQ tests and intelligence
+Feb-75	The Rocketing Dutchmen								1976	The Planet That Wasn't			flying saucers
+Mar-75	The Bridge of the Gods								1976	The Planet That Wasn't			light spectra
+Apr-75	The Judo Argument									1976	The Planet That Wasn't			existence of God
+May-75	The Planet That Wasn't								1976	The Planet That Wasn't			Vulcan
+Jun-75	The Olympian Snows									1976	The Planet That Wasn't			suface of Mars
+Jul-75	Titanic Surprise									1976	The Planet That Wasn't			world sizes in solar system
+Aug-75	The Wicked Witch is Dead							1976	The Planet That Wasn't			women and aging
+Sep-75	The Wrong Turning									1976	The Planet That Wasn't			retrograde satellites
+Oct-75	The Third Liquid									1976	The Planet That Wasn't			melting points of elements
+Nov-75	Best Foot Backward									1976	The Planet That Wasn't			importance of technology
+Dec-75	The Smell of Electricity							1976	The Planet That Wasn't			ozone
+Jan-76	Silent Victory										1976	The Planet That Wasn't			oxygen atmosphere
+Feb-76	Change of Air										1976	The Planet That Wasn't			fluorocarbons; ozone layer
+Mar-76	The Nightfall Effect								1976	The Planet That Wasn't			space settlements
+Apr-76	All Gall											1976	The Planet That Wasn't			cholesterol
+
+
+May-76	It's a Wonderful Town!								1978	Quasar, Quasar, Burning Bright	New York City
+Jun-76	Surprise! Surprise!									1978	Quasar, Quasar, Burning Bright	undiscovered elements
+Jul-76	Making It!											1978	Quasar, Quasar, Burning Bright	American technology
+Aug-76	Moving Ahead										1978	Quasar, Quasar, Burning Bright	American technology
+Sep-76	To the Top											1978	Quasar, Quasar, Burning Bright	American Technology
+Oct-76	Quasar, Quasar, Burning Bright						1978	Quasar, Quasar, Burning Bright	luminosity of objects in the sky
+Nov-76	The Comet That Wasn't								1978	Quasar, Quasar, Burning Bright	discovery of Uranus
+Dec-76	The Sea-Green Planet								1978	Quasar, Quasar, Burning Bright	discovery of Neptune
+Jan-77	Discovery By Blink									1978	Quasar, Quasar, Burning Bright	discovery of Pluto
+Feb-77	Asimov's Corollary									1978	Quasar, Quasar, Burning Bright	popular fallacies
+Mar-77	The Magic Isle										1978	Quasar, Quasar, Burning Bright	undiscovered elements
+Apr-77	The Dark Companion									1978	Quasar, Quasar, Burning Bright	white dwarfs
+May-77	Twinkle, Twinkle, Microwaves						1978	Quasar, Quasar, Burning Bright	discovery of pulsars
+Jun-77	The Final Collapse									1978	Quasar, Quasar, Burning Bright	black holes
+Jul-77	Of Ice and Men										1978	Quasar, Quasar, Burning Bright	orbital eccentricity
+Aug-77	Oblique the Centric Globe							1978	Quasar, Quasar, Burning Bright	axial tipping and its relation to ice ages
+Sep-77	The Opposite Poles									1978	Quasar, Quasar, Burning Bright	ice ages
+
+Mar-79	Out, Damned Spot									1981	The Sun Shines Bright			sunspots and coincidences		
+Apr-79	A Long Day's Journey								1981	The Sun Shines Bright			tides slow the Earth's rotation
+May-79	The Inconstant Moon									1981	The Sun Shines Bright			future changes in the Moon's rotation
+Jun-79	Alas, All Human										1981	The Sun Shines Bright			integrity and dishonesty in science
+Jul-79	Below the Horizon									1981	The Sun Shines Bright			view of stars from the U. S.
+Aug-79	Clone, Clone of My Own								1981	The Sun Shines Bright			human cell division and clones
+Sep-79	How Little?											1981	The Sun Shines Bright			Sirius-B, the dark companion
+Oct-79	Just Thirty Years									1981	The Sun Shines Bright			recent planetary facts learned
+Nov-79	The Sun Shines Bright								1981	The Sun Shines Bright			detecting neutrinos from the Sun
+Dec-79	The Useless Metal									1981	The Sun Shines Bright			effects of Three-Mile Island event
+Jan-80	Neutrality!											1981	The Sun Shines Bright			role of neutrons in uranium fission
+Feb-80	The Finger of God									1981	The Sun Shines Bright			the race to get the A-bomb
+Mar-80	The Noblest Metal of Them All						1981	The Sun Shines Bright			iridium and the Alvarez discovery
+Apr-80	Nice Guys Finish First!								1981	The Sun Shines Bright			violence versus cooperation
+May-80	More Crowded!										1981	The Sun Shines Bright			population growth from '67 to '79
+Jun-80	The Unsecret Weapon									1981	The Sun Shines Bright			the impact of the longbow on history
+Jul-80	Siriusly Speaking									1981	The Sun Shines Bright			Sirius and other near stars
+
+Aug-80	Milton! Thou Should'st be Living At This Hour		1983	Counting the Eons				Paradise Lost shows that Milton could have been a science fiction writer
+Sep-80	Getting Down to Basics								1983	Counting the Eons				delving inside atoms
+Oct-80	The Word I Invented									1983	Counting the Eons				robotics and related ideas
+Nov-80	Counting the Eons									1983	Counting the Eons				radioactivity dating
+Dec-80	Beyond Earth's Eons									1983	Counting the Eons				expansion of the universe
+Jan-81	All and Nothing										1983	Counting the Eons				oscillating universe, missing mass
+Feb-81	Nothing and All										1983	Counting the Eons				neutrinos and the missing mass
+Mar-81	Light As Air?										1983	Counting the Eons				air pressure
+Apr-81	Too Deep For Me										1983	Counting the Eons				air under ocean pressures
+May-81	Under Pressure										1983	Counting the Eons				substances under pressure
+Jun-81	Yes! With a Bang!									1983	Counting the Eons				mass extinctions by meteors
+Jul-81	The Runaway Star									1983	Counting the Eons				Barnard's star
+Aug-81	The Dance of the Stars								1983	Counting the Eons				wobbling orbit of Barnard's star
+Sep-81	And After Many a Summer Dies a Proton				1983	Counting the Eons				proton decay
+Oct-81	Let Me Count the Days								1983	Counting the Eons				calendar calculations; choosing Julian day number 1
+Nov-81	The Crucial Assymetry								1983	Counting the Eons				early universe speculations
+Dec-81	Let Einstein Be!									1983	Counting the Eons				explaining relativity
+
+Nov-84	Far as Human Eye Could See							1987	Far As Human Eye Could See		final state of the universe
+Dec-84	Made, Not Found										1987	Far As Human Eye Could See		filling in the periodic table
+Jan-85	Far, Far Below										1987	Far As Human Eye Could See		interior of the Earth
+Feb-85	Salt and Battery									1987	Far As Human Eye Could See		electric cell (battery) development
+Mar-85	Current Affairs										1987	Far As Human Eye Could See		improvements in cell (battery)
+Apr-85	Forcing the Lines									1987	Far As Human Eye Could See		electric generators
+May-85	Arise, Fair Sun!									1987	Far As Human Eye Could See		development of electronics
+Jun-85	The Rule of Numerous Small							1987	Far As Human Eye Could See		small stars and planets are more numerous than larger ones
+Jul-85	Poison in the Negative								1987	Far As Human Eye Could See		discovery of vitamins
+Aug-85	Tracing the Traces									1987	Far As Human Eye Could See		chemistry of vitamins
+Sep-85	The Goblin Element									1987	Far As Human Eye Could See		anemia and blood chemistry
+Oct-85	A Little Leaven										1987	Far As Human Eye Could See		catalysts, enzymes, and yeast
+Nov-85	The Biochemical Knife Blade							1987	Far As Human Eye Could See		enzymes and protein
+Dec-85	The Discovery of the Void							1987	Far As Human Eye Could See		clouds of gas in space
+Jan-86	Chemistry of the Void								1987	Far As Human Eye Could See		analysis of gas clouds in space
+Feb-86	Time is Out of Joint								1987	Far As Human Eye Could See		examining the length of the day
+Mar-86	Superstar											1987	Far As Human Eye Could See		large stars and the mass-luminosity law
+
+Feb-89	The Cosmic Lens										1991	The Secret of the Universe		gravitational lens
+Mar-89	The Secret of the Universe							1991	The Secret of the Universe		the universe has fractal complexity
+Apr-89	The Moon's Twin										1991	The Secret of the Universe		Jupiter's moon Io
+May-89	The Changing Distance								1991	The Secret of the Universe		changing distances of the moon, sun, and Mars
+Jun-89	A Change of Air										1991	The Secret of the Universe		atmosphere and properties of Venus
+Jul-89	The Importance of Pitch								1991	The Secret of the Universe		detecting galactic recession by the Doppler-Fizeau effect
+Aug-89	Long Ago and Far Away								1991	The Secret of the Universe		observations of the farthest reaches of the universe
+Sep-89	The True Rulers										1991	The Secret of the Universe		prokaryotes rule the earth
+Oct-89	The Nearest Star									1991	The Secret of the Universe		determination of the Sun's size and distance
+Nov-89	Massing the Sun										1991	The Secret of the Universe		determination of the Sun's mass
+Dec-89	What are Little Stars Made of?						1991	The Secret of the Universe		chemical composition of the Sun and planets
+Jan-90	Hot, Cold, and Con Fusion							1991	The Secret of the Universe		errors in science
+Feb-90	Business as Usual									1991	The Secret of the Universe		evolution of business
+Mar-90	Smashing the Sky									1991	The Secret of the Universe		size of our galaxy
+Apr-90	Worlds in Order										1991	The Secret of the Universe		sizes of the bodies in the solar system
+May-90	Just Say 'No'?										1991	The Secret of the Universe		vices of modern cities
+Jun-90	The Salt-Producers									1991	The Secret of the Universe		iodine
