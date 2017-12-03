@@ -45,6 +45,7 @@ ESSAYS READ
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Aug-59	The Ultimate Split of the Second					1963	View From A Height				ultrashort time periods/subatomic particle lifetimes
 Oct-59	The Height of Up									1963	View From A Height				temperature extremes/temperature measurement
+Mar-60	The Flickering Yardstick							1974	Asimov on Astronomy				Cepheid variables/measuring galactic distances
 Nov-60	The Element of Perfection							1963	View From A Height				helium
 Dec-60	Now Hear This!										1963	View From A Height				echo location
 Jul-61	Recipe for a Planet									1963	View From A Height				elementary makeup of Earth
@@ -71,6 +72,9 @@ Jun-63	The Light that Failed								1964	Adding A Dimension				Michelson-Morley 
 Jul-63	The Isaac Winners									1964	Adding A Dimension				great scientists in history
 Aug-63	T-Formation											1964	Adding A Dimension				large numbers
 Oct-63	Twinkle, Twinkle, Little Star						1964	Adding A Dimension				white dwarfs
+
+Jan-64	Round and Round and...								1974	Asimov on Astronomy				planetary rotations
+May-66	Time and Tide										1974	Asimov on Astronomy				tidal effects	
 
 Jul-66	Balancing the Books									1968	Science, Numbers, and I			conservation laws	
 Aug-66	BB or Not BB, That is the Question					1968	Science, Numbers, and I			origin of the universe
